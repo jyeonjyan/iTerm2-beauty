@@ -1,5 +1,6 @@
 # 지환이의 iTerm2 디자인을 훔쳐보자!
-### **보충이 필요한 부분은 issue 주세요!**
+**보충이 필요한 부분은 issue 주세요!** <br>
+**Give me a issue for supplements!**
 ******
 
 **🏠 Homebrew 설치하기**
